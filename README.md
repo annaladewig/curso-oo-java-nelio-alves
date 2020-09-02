@@ -9,9 +9,9 @@ Os tópicos de programação incluem:
 
 - [x] Classes, atributos e métodos
 
-- [ ] Construtores, sobrecarga, encapsulamento
+- [x] Construtores, sobrecarga, encapsulamento
 
-- [ ] Estruturas de dados: arrays e coleções
+- [x] Estruturas de dados: arrays e coleções
 
 - [ ] Enumerações, composição
 
