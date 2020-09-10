@@ -1,4 +1,4 @@
-# curso-poo-java-nelio-alves
+# curso-oo-java-nelio-alves
 Exercícios do curso da Udemy de **Programação Orientada a Objetos**, utilizando a linguagem **Java**, ministrado pelo **Professor Nélio Alves**.
 
 Os tópicos de programação incluem:
@@ -13,11 +13,13 @@ Os tópicos de programação incluem:
 
 - [x] Estruturas de dados: arrays e coleções
 
-- [ ] Enumerações, composição
+- [x] Enumerações, composição
 
-- [ ] Herança, polimorfismo, interfaces
+- [x] Herança e polimorfismo
 
 - [ ] Tratamento de exceções
+
+- [ ] Interfaces
 
 - [ ] Generics
 
