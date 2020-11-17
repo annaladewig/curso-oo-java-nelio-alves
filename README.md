@@ -15,14 +15,16 @@ Os tópicos de programação incluem:
 
 - [x] Enumerações, composição
 
-- [x] Herança e polimorfismo
+- [x] Herança e polimorfismo 
 
-- [ ] Tratamento de exceções
+- [x] Uso do Tratamento de Exceções 
 
-- [ ] Interfaces
+- [x] Manipulação de Arquivos
 
-- [ ] Generics
+- [x] Uso de Interfaces
 
-- [ ] Programação funcional e expressões lambda, Stream API
+- [ ] Generics, Set, Map
 
-- [ ] Manipulação de arquivos
+- [ ] Programação funcional e expressões lambda
+
+
