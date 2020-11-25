@@ -1,6 +1,8 @@
 # curso-oo-java-nelio-alves
 Exercícios do curso da Udemy de **Programação Orientada a Objetos**, utilizando a linguagem **Java**, ministrado pelo **Professor Nélio Alves**.
 
+IDE utilizada: Eclipse.
+
 Os tópicos de programação incluem:
 
 - [x] Lógica de programação e algoritmos
@@ -26,5 +28,7 @@ Os tópicos de programação incluem:
 - [ ] Generics, Set, Map
 
 - [ ] Programação funcional e expressões lambda
+
+- [x] Interface gráfica utilizando JavaFX e o Scene Builder
 
 
