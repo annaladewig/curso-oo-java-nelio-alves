@@ -29,6 +29,8 @@ Os tópicos de programação incluem:
 
 - [ ] Programação funcional e expressões lambda
 
-- [x] Interface gráfica utilizando JavaFX e o Scene Builder
+- [x] Acesso ao Banco de Dados com o JDBC
+
+- [x] Interface gráfica utilizando o JavaFX e o Scene Builder
 
 
